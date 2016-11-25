@@ -1,2 +1,3 @@
-Ala ma kota, kot ma Ale,
+Ala ma kota, 
+kot ma Ale,
 Ala ma kaca
